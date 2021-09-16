@@ -557,6 +557,14 @@ img {
     font-size: 13px;
     line-height: 1.7;
   }
+  
+  .skill-item:nth-child(2) {
+  margin-left: 0;
+} 
+
+.skill-item:nth-child(3) {
+  margin-left: 0;
+} 
 
   /* About */
   .profile {
